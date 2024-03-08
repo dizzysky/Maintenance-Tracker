@@ -10,4 +10,6 @@
 
 
 **Technologies**
-- Svelte - used as an introduction to using the Svelte framework 
+- Svelte  used as an introduction to using the Svelte framework 
+
+- created using vim and mocked up using Figma
